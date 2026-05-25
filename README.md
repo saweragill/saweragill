@@ -8,7 +8,7 @@
 
 ```python
 sawera = {
-    "name"      : "Sawera Gill",
+    "name"      : "Sawera Ishaq",
     "location"  : "Lahore, Pakistan 🇵🇰",
     "skills"    : ["Python", "React", "SQL", "Machine Learning"],
     "studying"  : "B.Sc Computer Science",
